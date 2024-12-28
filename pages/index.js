@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Ola Ana tudo bem???</h1>;
+  return <h1>Ola tudo bem?</h1>;
 }
 
 function teste() {
